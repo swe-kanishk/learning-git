@@ -19,3 +19,4 @@ console.dir(myDate.getTime());
 // console.log(myDate.getTimezoneOffset()/-60);
 // console.log(myDate.toISOString());
 // console.log(myDate.toJSON());
+helk
