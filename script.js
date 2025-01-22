@@ -44,3 +44,4 @@ const newUser2 = new CreateUser('kanishk', 'tiwari', 20);
 //         this.lastName = lastName;
 //     }
 // }
+console.log('hii')
